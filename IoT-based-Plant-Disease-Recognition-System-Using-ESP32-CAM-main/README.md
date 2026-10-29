@@ -107,9 +107,9 @@ const char* serverUrl = "http://<Your-PC-IP>/esp32-cam/upload.php";
 
 
 ## 👥 Project Team
-- **Abhijeet Khomane** – Hardware & Software Integration  
-- **Shubham Gavade** – Software & AI Implementation  
-- **Purva Patil** – Documentation & Testing  
+- **KRISHNA KUMAR GUPTA** – Hardware & Software Integration  
+- **SNEHAL SHARMA** – Software & AI Implementation  
+- **RISHI RAJ HANS** – Documentation & Testing  
 
 ---
 
@@ -126,9 +126,9 @@ We sincerely thank our project guide, for their valuable guidance and support th
 ---
 
 ## 📫 Contact
-- **Email:** abhikhomane123@gmail.com  
-- **LinkedIn:** [https://www.linkedin.com/in/abhijeet-khomane-08a202275](https://www.linkedin.com/in/abhijeet-khomane-08a202275)  
-- **GitHub:** [https://github.com/Abhikhomane45](https://github.com/Abhikhomane45)
+- **Email:** krishnakk05057@gmail.com  
+- **LinkedIn:** [https://www.linkedin.com/in/krishnagupta]  
+- **GitHub:** https://github.com/krishnak070
 
 ---
 
