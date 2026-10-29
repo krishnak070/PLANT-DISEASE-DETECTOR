@@ -127,7 +127,7 @@ We sincerely thank our project guide, for their valuable guidance and support th
 
 ## 📫 Contact
 - **Email:** krishnakk05057@gmail.com  
-- **LinkedIn:** [https://www.linkedin.com/in/krishnagupta]  
+- **LinkedIn:** linkedin.com/in/krishna-kumar-gupta-a16a5a311 
 - **GitHub:** https://github.com/krishnak070
 
 ---
